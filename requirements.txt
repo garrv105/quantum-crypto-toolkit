@@ -1,0 +1,7 @@
+numpy==1.24.3
+scipy==1.11.2
+matplotlib==3.7.2
+pytest==7.4.0
+pyyaml==6.0.1
+jupyter==1.0.0
+cryptography==41.0.3
