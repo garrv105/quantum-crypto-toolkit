@@ -279,11 +279,10 @@ IBM Quantum Research
 Academic cryptography community
 
 📧 Contact
-Your Name - Cybersecurity Researcher
+Your Name - Garrv Sipani
 
-Email: your.email@university.edu
-LinkedIn: your-profile
-GitHub: @yourusername
+LinkedIn: https://www.linkedin.com/in/garrv-sipani-a05746311/
+GitHub: @garrv105
 
 
 ⭐ If you find this project useful for learning quantum-resistant cryptography, please give it a star!
