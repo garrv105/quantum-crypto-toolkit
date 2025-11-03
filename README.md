@@ -128,7 +128,7 @@ Tampered message verification: False
 📊 Algorithm Comparison
 AlgorithmTypeSecurity BasisKey SizePerformanceBB84Key ExchangeQuantum Physics256-bitFastLWEEncryptionLattice Problems~2KBMediumSPHINCS+SignatureHash Functions~1KBSlowerRSA-2048EncryptionFactoring2048-bit⚠️ Quantum VulnerableECDSASignatureDiscrete Log256-bit⚠️ Quantum Vulnerable
 🔬 Technical Details
-BB84 Protocol Flow
+<pre> ``` BB84 Protocol Flow
 Alice                    Quantum Channel                    Bob
   |                                                          |
   | Generate random bits & bases                            |
@@ -148,7 +148,7 @@ Alice                    Quantum Channel                    Bob
   |<---------------Sample Comparison--------------------->  |
   | Error rate < 11%? ✓ Secure                              |
   |                                                          |
-  | Final Key: [1,0,1,1,0...]                               | Final Key: [1,0,1,1,0...]
+  | Final Key: [1,0,1,1,0...]                               | Final Key: [1,0,1,1,0...] | ``` </pre>
 LWE Security
 The Learning With Errors problem:
 Given: (A, b = As + e mod q)
