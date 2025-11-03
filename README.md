@@ -234,7 +234,7 @@ Quantum Computing
 IBM Quantum
 Google Quantum AI
 
-🛠️ Project Structure
+<pre> ```🛠️ Project Structure
 quantum-crypto-toolkit/
 ├── README.md
 ├── requirements.txt
@@ -260,7 +260,7 @@ quantum-crypto-toolkit/
 │   └── quantum_threat_analysis.ipynb
 └── docs/
     ├── algorithms.md
-    └── api_reference.md
+    └── api_reference.md | ``` </pre>
 🤝 Contributing
 Contributions welcome! Areas for improvement:
 
