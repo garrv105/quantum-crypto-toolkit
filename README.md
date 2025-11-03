@@ -1,3 +1,7 @@
+[![Tests](https://img.shields.io/badge/tests-passing-brightgreen.svg)]()
+[![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)]()
+[![Quantum Safe](https://img.shields.io/badge/quantum-safe-brightgreen.svg)]()
+
 A practical implementation of post-quantum cryptographic algorithms designed to resist attacks from quantum computers. This toolkit provides secure encryption, digital signatures, and key distribution protocols that remain secure in the quantum era.
 🎯 Why Quantum-Resistant Cryptography?
 Current cryptographic systems (RSA, ECC, Diffie-Hellman) will be vulnerable to quantum computers running Shor's algorithm. This project implements NIST Post-Quantum Cryptography standards to ensure long-term security.
