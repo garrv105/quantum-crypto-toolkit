@@ -1,3 +1,4 @@
+[![CI](https://github.com/garrv105/quantum-crypto-toolkit/actions/workflows/ci.yml/badge.svg)](https://github.com/garrv105/quantum-crypto-toolkit/actions/workflows/ci.yml)
 [![Tests](https://img.shields.io/badge/tests-passing-brightgreen.svg)]()
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)]()
 [![Quantum Safe](https://img.shields.io/badge/quantum-safe-brightgreen.svg)]()

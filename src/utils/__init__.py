@@ -2,4 +2,4 @@
 
 from .benchmark import CryptoBenchmark
 
-__all__ = ['CryptoBenchmark']
+__all__ = ["CryptoBenchmark"]
